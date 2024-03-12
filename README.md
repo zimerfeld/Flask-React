@@ -6,13 +6,15 @@ cd .\backend\
 
 python main.py
 
-![Python Started](./images/RunPython.jpg)
+![Python Started](./images/RunPython.png)
 
 
 cd .\frontend\
 
 npm run dev
 
-![React Started](./images/RunReact.jpg)
+![React Started](./images/RunReact.png)
 
-![React Browser](./images/RunBrowser.jpg)
+
+# Result 
+![React Browser](./images/RunBrowser.png)
